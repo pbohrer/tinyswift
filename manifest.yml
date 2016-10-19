@@ -1,0 +1,3 @@
+applications:
+- name: pjbtestswiftappnew
+  buildpack: https://github.com/pbohrer/swift-buildpack.git#develop
