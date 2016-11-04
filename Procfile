@@ -1,1 +1,1 @@
-web: test_swift
+web: tinyswift
