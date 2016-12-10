@@ -1,1 +1,1 @@
-web: tinyswift
+web: TinySwift
